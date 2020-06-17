@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ali Bayat</Authors>
+    <Company>Geeks Ltd</Company>
+    <Description>C# library to split names into their respective components (first, last, etc)</Description>
+    <PackageTags>string, split, parsing</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
